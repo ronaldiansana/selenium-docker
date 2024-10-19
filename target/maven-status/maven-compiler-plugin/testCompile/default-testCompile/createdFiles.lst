@@ -1,0 +1,9 @@
+org\example\tests\vendorportal\VendorPortalTest.class
+org\example\tests\AbstractTest.class
+org\example\tests\flightreservation\model\FlightReservationTestData.class
+org\example\util\Constants.class
+org\example\tests\flightreservation\FlightReservationTest.class
+org\example\util\Config.class
+org\example\tests\vendorportal\model\VendorPortalTestData.class
+org\example\util\ResourceLoader.class
+org\example\util\JsonUtil.class

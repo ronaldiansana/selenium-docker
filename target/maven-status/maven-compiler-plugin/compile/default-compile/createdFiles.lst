@@ -1,8 +1,0 @@
-org\example\pages\flightreservation\FlightConfirmationPage.class
-org\example\pages\flightreservation\FlightsSearchPage.class
-org\example\pages\flightreservation\FlightsSelectionPage.class
-org\example\pages\flightreservation\RegistrationPage.class
-org\example\pages\AbstractPage.class
-org\example\pages\vendorportal\LoginPage.class
-org\example\pages\flightreservation\RegistrationConfirmationPage.class
-org\example\pages\vendorportal\DashboardPage.class

@@ -10,6 +10,9 @@ WORKDIR /home/selenium-docker
 ADD target/docker-resources ./
 ADD runner.sh runner.sh
 
+# Fix for windows, Convert runner.sh to Unix line endings
+RUN dos2unix runner.sh
+
 # run the tests
 ENTRYPOINT sh runner.sh
 
